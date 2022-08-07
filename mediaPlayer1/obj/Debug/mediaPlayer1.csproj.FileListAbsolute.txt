@@ -1,0 +1,16 @@
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\bin\Debug\mediaPlayer1.exe.config
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\bin\Debug\mediaPlayer1.exe
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\bin\Debug\mediaPlayer1.pdb
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\bin\Debug\Interop.WMPLib.dll
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\mediaPlayer1.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\mediaPlayer1.csproj.SuggestedBindingRedirects.cache
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\Interop.WMPLib.dll
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\mediaPlayer1.csproj.ResolveComReference.cache
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\mediaPlayer1.Form1.resources
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\mediaPlayer1.Properties.Resources.resources
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\mediaPlayer1.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\mediaPlayer1.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\mediaPlayer1.exe
+C:\Users\grego\OneDrive\Escritorio\navegador\mediaPlayer1\mediaPlayer1\obj\Debug\mediaPlayer1.pdb
